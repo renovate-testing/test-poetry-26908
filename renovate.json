@@ -1,0 +1,6 @@
+{
+  "constraints": {
+    "python": "3.6"
+  },
+  "constraintsFiltering": "strict"
+}
